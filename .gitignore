@@ -1,0 +1,12 @@
+__pycache__
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+course_work.synctex.gz
+*.toc
+*.sqlite
+*.gz
+train
+log
+/ViZDoom
