@@ -8,5 +8,7 @@ course_work.synctex.gz
 *.sqlite
 *.gz
 train
-log
 /ViZDoom
+/PPO_figs
+/PPO_logs
+/PPO_preTrained
